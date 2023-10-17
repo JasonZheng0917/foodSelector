@@ -8,7 +8,7 @@ let arr = [
         star: '4'
     },
     {
-        name: '一級排骨'.link("https://nash.tw/yiji-paigu/"),
+        name: '一級排骨'.link("https://www.facebook.com/ichibanintaipei/?locale=zh_TW"),
         phone: '02 2371 9739',
         pic: 'https://live.staticflickr.com/65535/51669526060_2900147a43_c.jpg',
         star: '4.3'
@@ -29,12 +29,12 @@ let arr = [
         pic:'https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/09/02/98/13688234.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600',
         star: '5'
     },{
-        name: '鴨肉扁'.link("https://www.mcdonalds.com/tw/zh-tw.html"),
+        name: '鴨肉扁'.link("https://www.facebook.com/pages/%E9%B4%A8%E8%82%89%E6%89%81/187227481301671"),
         phone: '02 2371 3918',
         pic:'https://1.bp.blogspot.com/-bLkCNurxc2c/YFC5X4krEVI/AAAAAAABQDc/aoAdNv7NiY8xKs0GIt87_d9u2b17WhtmgCLcBGAsYHQ/w640-h426/IMG_9399.JPG',
         star: '3.2'
     },{
-        name: '天天利'.link("https://www.mcdonalds.com/tw/zh-tw.html"),
+        name: '天天利'.link("https://nash.tw/tiantianli2023/"),
         phone: '02 2371 3918',
         pic:'https://pic.pimg.tw/anrine910070/1519112892-2651048618.jpg',
         star: '3.2'
@@ -44,7 +44,7 @@ let arr = [
         pic:'https://mimiya888.com/wp-content/uploads/20210706013457_1.jpg',
         star: '3.2'
     },{
-        name: '羊城燒腊'.link("https://www.mcdonalds.com/tw/zh-tw.html"),
+        name: '羊城燒腊'.link("https://www.facebook.com/1YangCheng/"),
         phone: '02 2371 3918',
         pic:'https://pic.pimg.tw/bravejim/1651834072-2888905095-g_n.jpg',
         star: '3.2'
